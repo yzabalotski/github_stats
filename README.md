@@ -1,2 +1,2 @@
 # github_stats
-Yet another extension to draw github user stats
+Yet another script to read and draw github stats
